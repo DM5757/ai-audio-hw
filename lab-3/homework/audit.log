@@ -1,0 +1,30 @@
+{"time": "2025-10-24T17:24:07.449637", "event": "start", "file": "test_audio.mp3"}
+{"time": "2025-10-24T17:24:26.791524", "event": "stt_done", "chars": 0, "api_conf": 0.0}
+{"time": "2025-10-24T17:24:58.822289", "event": "confidence", "snr_db": 7.1454341693786905, "api_conf": 0.0, "combined": 0.0, "level": "LOW"}
+{"time": "2025-10-24T17:24:58.833780", "event": "pii_redaction", "count": 0}
+{"time": "2025-10-24T17:25:02.172555", "event": "tts_done", "output": "output_summary.mp3"}
+{"time": "2025-10-24T17:25:02.172728", "event": "done", "elapsed": 54.72}
+{"time": "2025-10-24T17:46:42.472279", "event": "start", "file": "test_audio.mp3"}
+{"time": "2025-10-24T17:47:01.534284", "event": "stt_done", "chars": 0, "api_conf": 0.0}
+{"time": "2025-10-24T17:47:11.593349", "event": "confidence", "snr_db": 5.486054550356521, "api_conf": 0.0, "combined": 0.0, "level": "LOW"}
+{"time": "2025-10-24T17:47:11.613792", "event": "pii_redaction", "count": 0}
+{"time": "2025-10-24T17:47:14.953274", "event": "tts_done", "output": "output_summary.mp3"}
+{"time": "2025-10-24T17:47:14.953469", "event": "done", "elapsed": 32.48}
+{"time": "2025-10-24T18:21:54.848985", "event": "start", "file": "test_audio.mp3"}
+{"time": "2025-10-24T18:22:24.728146", "event": "stt_done", "chars": 0, "api_conf": 0.0}
+{"time": "2025-10-24T18:23:00.365142", "event": "confidence", "snr_db": 5.486054550356521, "api_conf": 0.0, "combined": 0.0, "level": "LOW"}
+{"time": "2025-10-24T18:23:00.392107", "event": "pii_redaction", "count": 0}
+{"time": "2025-10-24T18:23:04.032419", "event": "tts_done", "output": "output_summary.mp3"}
+{"time": "2025-10-24T18:23:04.032536", "event": "done", "elapsed": 69.19}
+{"time": "2025-10-24T18:36:36.104306", "event": "start", "file": "clean.wav"}
+{"time": "2025-10-24T18:36:49.461740", "event": "stt_done", "chars": 39, "api_conf": 0.9215013980865479}
+{"time": "2025-10-24T18:37:06.910316", "event": "confidence", "snr_db": 5.486206199907556, "api_conf": 0.9215013980865479, "combined": 0.6450509645044804, "level": "LOW"}
+{"time": "2025-10-24T18:37:06.955758", "event": "pii_redaction", "count": 1}
+{"time": "2025-10-24T18:37:10.641902", "event": "tts_done", "output": "output_summary.mp3"}
+{"time": "2025-10-24T18:37:10.642024", "event": "done", "elapsed": 34.54}
+{"time": "2025-10-24T18:55:43.173882+00:00", "event": "start", "file": "clean.wav"}
+{"time": "2025-10-24T18:55:58.599151+00:00", "event": "stt_done", "chars": 298, "api_conf": 0.7944414615631104}
+{"time": "2025-10-24T18:56:14.605946+00:00", "event": "confidence", "snr_db": 5.48620632241491, "snr_norm": 0.0, "api_conf": 0.7944414615631104, "word_conf_avg": 0.8279575619101525, "combined": 0.5628122431635857, "level": "LOW"}
+{"time": "2025-10-24T18:56:14.650649+00:00", "event": "pii_redaction", "count": 4}
+{"time": "2025-10-24T18:56:20.922357+00:00", "event": "tts_done", "output": "output_summary.mp3", "summary_chars": 180}
+{"time": "2025-10-24T18:56:20.922465+00:00", "event": "done", "elapsed": 37.75}
